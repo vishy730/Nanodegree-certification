@@ -1,6 +1,6 @@
 # Data Analyst Nanodegree
 
-![Certificate]()
+![Certificate](https://github.com/vishy730/Nanodegree-certification/certificate.JPG)
 
 ### About
 This repository contains project work for Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/nd002) from the September 2015 cohort.
